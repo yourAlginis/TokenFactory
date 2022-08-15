@@ -8,9 +8,14 @@ And you could also deploy these token to any test network,like: Ropsten,Kovan,Ri
 
 
 <img src="https://raw.githubusercontent.com/AlgoNetwork/TokenFactory/master/website.png" alt="generate-erc20-token">
-
-Website:
+<br>
+Website1:
 https://algonetwork.github.io/TokenFactory/
+
+<br>
+<br>
+Website2:
+https://erc20tokenfactory.netlify.app
 
 ### Tutorial Video:<br>
 https://youtu.be/37eDqbnDKhI
